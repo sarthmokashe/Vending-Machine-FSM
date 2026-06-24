@@ -32,3 +32,4 @@ This project simulates a vending machine that accepts **5 Rs** and **10 Rs** coi
 ├── design.sv        # Verilog design code
 ├── testbench.sv     # Testbench for simulation
 └── README.md        # Project documentation
+```
